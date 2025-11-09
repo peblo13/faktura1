@@ -1,0 +1,13 @@
+# Wyklucz pliki tymczasowe, systemowe i prywatne
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+node_modules/
+.env
+__pycache__/
+.idea/
+.vscode/
+# Wyklucz pliki graficzne, jeśli nie chcesz ich w repo
+# logofaktura.png
